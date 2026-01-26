@@ -4,7 +4,7 @@
     <family customizationType="new-named-family" name="alarmclock">
         <font weight="400" style="normal" postScriptName="AlarmClock">AlarmClock.ttf</font>
     </family>
-    <alias name="alarmclock" to="AlarmClock" />
+    <alias name="alarmclock" to="AlarmClock"/>
 
     <!-- Google Sans -->
     <family customizationType="new-named-family" name="google-sans">
@@ -530,11 +530,11 @@
         <font weight="700" style="normal">Lato-Bold.ttf</font>
         <font weight="700" style="italic">Lato-BoldItalic.ttf</font>
     </family>
-    <alias name="lato-light" to="lato" weight="300" />
-    <alias name="lato-regular" to="lato" weight="400" />
-    <alias name="lato-medium" to="lato" weight="500" />
-    <alias name="lato-semi-bold" to="lato" weight="600" />
-    <alias name="lato-bold" to="lato" weight="700" />
+    <alias name="lato-light" to="lato" weight="300"/>
+    <alias name="lato-regular" to="lato" weight="400"/>
+    <alias name="lato-medium" to="lato" weight="500"/>
+    <alias name="lato-semi-bold" to="lato" weight="600"/>
+    <alias name="lato-bold" to="lato" weight="700"/>
 
     <!-- Nothing Fonts -->
     <family customizationType="new-named-family" name="nothingdot">
@@ -546,15 +546,15 @@
     <family customizationType="new-named-family" name="nothingdot57aligned">
         <font weight="400" style="normal" postScriptName="Ndot-57-Aligned">Ndot-57-Aligned.otf</font>
     </family>
-    <alias name="ndot" to="NDot55" />
-    <alias name="ndot57" to="NDot57" />
-    <alias name="ndot57-align" to="NDot57-Aligned" />
+    <alias name="ndot" to="NDot55"/>
+    <alias name="ndot57" to="NDot57"/>
+    <alias name="ndot57-align" to="NDot57-Aligned"/>
 
     <!-- NothingDot -->
     <family customizationType="new-named-family" name="pixelwars">
         <font weight="400" style="normal" postScriptName="pixelwars">pixelwars.ttf</font>
     </family>
-    <alias name="pixelwars" to="pixelwars" weight="400" />
+    <alias name="pixelwars" to="pixelwars" weight="400"/>
 
     <!-- OnePlusSans -->
     <family customizationType="new-named-family" name="op-sans">
@@ -571,24 +571,24 @@
        <font weight="700" style="normal">OnePlusSans-Bold.ttf</font>
        <font weight="700" style="italic">OnePlusSans-BoldItalic.ttf</font>
     </family>
-    <alias name="op-sans-thin" to="op-sans" weight="100" />
-    <alias name="op-sans-light" to="op-sans" weight="300" />
-    <alias name="op-sans-book" to="op-sans" weight="400" />
-    <alias name="op-sans-regular" to="op-sans" weight="400" />
-    <alias name="op-sans-medium" to="op-sans" weight="500" />
-    <alias name="op-sans-bold" to="op-sans" weight="700" />
-    <alias name="op-sans-black" to="op-sans" weight="900" />
+    <alias name="op-sans-thin" to="op-sans" weight="100"/>
+    <alias name="op-sans-light" to="op-sans" weight="300"/>
+    <alias name="op-sans-book" to="op-sans" weight="400"/>
+    <alias name="op-sans-regular" to="op-sans" weight="400"/>
+    <alias name="op-sans-medium" to="op-sans" weight="500"/>
+    <alias name="op-sans-bold" to="op-sans" weight="700"/>
+    <alias name="op-sans-black" to="op-sans" weight="900"/>
 
     <!-- OnePlus Slate -->
     <family customizationType="new-named-family" name="oneplusslate">
         <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
         <font weight="400" style="normal">SlateFromOP-Regular.ttf</font>
     </family>
-    <alias name="oneplusslate-light" to="oneplusslate" weight="300" />
-    <alias name="oneplusslate-regular" to="oneplusslate" weight="400" />
-    <alias name="oneplusslate-medium" to="oneplusslate" weight="500" />
-    <alias name="oneplusslate-semi-bold" to="oneplusslate" weight="600" />
-    <alias name="oneplusslate-bold" to="oneplusslate" weight="700" />
+    <alias name="oneplusslate-light" to="oneplusslate" weight="300"/>
+    <alias name="oneplusslate-regular" to="oneplusslate" weight="400"/>
+    <alias name="oneplusslate-medium" to="oneplusslate" weight="500"/>
+    <alias name="oneplusslate-semi-bold" to="oneplusslate" weight="600"/>
+    <alias name="oneplusslate-bold" to="oneplusslate" weight="700"/>
 
     <!-- Rubik -->
     <family customizationType="new-named-family" name="rubik">
@@ -599,9 +599,9 @@
         <font weight="700" style="normal">Rubik-Bold.ttf</font>
         <font weight="700" style="italic">Rubik-BoldItalic.ttf</font>
     </family>
-    <alias name="rubik-light" to="rubik" weight="300" />
-    <alias name="rubik-regular" to="rubik" weight="400" />
-    <alias name="rubik-medium" to="rubik" weight="500" />
-    <alias name="rubik-semi-bold" to="rubik" weight="600" />
-    <alias name="rubik-bold" to="rubik" weight="700" />
+    <alias name="rubik-light" to="rubik" weight="300"/>
+    <alias name="rubik-regular" to="rubik" weight="400"/>
+    <alias name="rubik-medium" to="rubik" weight="500"/>
+    <alias name="rubik-semi-bold" to="rubik" weight="600"/>
+    <alias name="rubik-bold" to="rubik" weight="700"/>
 </fonts-modification>
