@@ -49,8 +49,7 @@ PRODUCT_PACKAGES += \
 
 # Dark Mode Backgrounds
 PRODUCT_PACKAGES += \
-    BackgroundBlackOverlay \
-    BackgroundSolarizedOverlay
+    BackgroundBlackOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
