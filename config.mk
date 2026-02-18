@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2025 Altair ROM Project
+# Copyright (C) 2017-2026 Altair ROM Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,6 +18,13 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 # Package overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
+
+# Custom Overlays
+PRODUCT_PACKAGES += \
+    GlanceableHubConfigOverlay \
+    GlanceableHubSettingsConfigOverlay \
+    GlanceableHubSettingsConfigOverlay2022 \
+    GlanceableHubSysuiConfigOverlay
 
 # Fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
