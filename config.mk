@@ -39,20 +39,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ClockFontAlarmClockOverlay \
     ClockFontGoogleSansFlexOverlay \
-    ClockFontLatoOverlay \
     ClockFontNothingDotHeadlineOverlay \
-    ClockFontNotoSerifSourceOverlay \
     ClockFontOnePlusSansOverlay \
-    ClockFontOnePlusSlateOverlay \
-    ClockFontRubikOverlay
+    ClockFontOnePlusSlateOverlay
 
 PRODUCT_PACKAGES += \
     FontGoogleSansFlexOverlay \
-    FontLatoOverlay \
-    FontNotoSerifSourceOverlay \
     FontOnePlusSansOverlay \
-    FontOnePlusSlateOverlay \
-    FontRubikOverlay
+    FontOnePlusSlateOverlay
 
 # Dark Mode Backgrounds
 PRODUCT_PACKAGES += \
