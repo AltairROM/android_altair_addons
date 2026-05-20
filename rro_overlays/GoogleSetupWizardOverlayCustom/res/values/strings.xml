@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_message">Welcome to Altair ROM</string>
+    <string name="deferred_setup_wizard_title">Finish setting up Altair ROM</string>
+    <string name="setup_wizard_title">Altair ROM Setup</string>
+</resources>

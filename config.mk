@@ -24,7 +24,8 @@ PRODUCT_PACKAGES += \
     GlanceableHubConfigOverlay \
     GlanceableHubSettingsConfigOverlay \
     GlanceableHubSettingsConfigOverlay2022 \
-    GlanceableHubSysuiConfigOverlay
+    GlanceableHubSysuiConfigOverlay \
+    GoogleSetupWizardOverlayCustom
 
 # Fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
