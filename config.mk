@@ -16,8 +16,8 @@ LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
 # Package overlays
-PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
+PRODUCT_PACKAGE_OVERLAYS += altair/addons/overlay/common
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += altair/addons/overlay/common
 
 # Custom Overlays
 PRODUCT_PACKAGES += \
@@ -32,7 +32,7 @@ $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
 
 PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
+    $(call find-copy-subdir-files,*,altair/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml
