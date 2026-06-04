@@ -49,6 +49,10 @@ PRODUCT_PACKAGES += \
     FontOnePlusSansOverlay \
     FontOnePlusSlateOverlay
 
+# Battery Styles
+PRODUCT_PACKAGES += \
+    BatteryTwoTonePortraitOverlay
+
 # Dark Mode Backgrounds
 PRODUCT_PACKAGES += \
     BackgroundBlackOverlay

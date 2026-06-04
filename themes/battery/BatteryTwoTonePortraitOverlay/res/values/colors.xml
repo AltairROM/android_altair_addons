@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: Altair ROM Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <color name="config_batterymeterChargingFillColor">#00000000</color>
+    <color name="config_batterymeterPowerSaveFillColor">#00000000</color>
+</resources>

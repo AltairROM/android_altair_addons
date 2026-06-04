@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: Altair ROM Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          android:versionCode="1"
+          android:versionName="1.0"
+          android:compileSdkVersion="36"
+          android:compileSdkVersionCodename="16"
+          package="com.android.theme.battery.twotoneportrait"
+          platformBuildVersionCode="36"
+          platformBuildVersionName="16">
+    <uses-sdk android:minSdkVersion="36"
+              android:targetSdkVersion="36"/>
+    <overlay android:priority="1"
+             android:targetPackage="com.android.systemui"
+             android:category="android.theme.customization.battery_style"/>
+    <application android:label="Two Tone Portrait"
+                 android:hasCode="false">
+        <meta-data
+            android:name="axion_theme"
+            android:value="battery"/>
+    </application>
+</manifest>

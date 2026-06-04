@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: Altair ROM Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <bool name="config_batterymeterBoltKnockout">false</bool>
+    <bool name="config_batterymeterDualTone">true</bool>
+    <bool name="config_batterymeterHorizontalFill">false</bool>
+    <bool name="config_themedBatteryPercentWhileCharging">false</bool>
+</resources>
