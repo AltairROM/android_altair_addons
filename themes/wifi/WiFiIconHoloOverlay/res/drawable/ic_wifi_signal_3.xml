@@ -10,7 +10,7 @@
         android:viewportHeight="24">
     <!-- Bar 4 -->
     <path
-        android:fillAlpha="0.3"
+        android:fillAlpha="1.0"
         android:fillColor="@android:color/white"
         android:pathData="M0.3643,6.6886L2.6444,9.653C5.3736,7.3065 8.4919,6.1326 11.9994,6.1326C15.5082,6.1326 18.6265,7.3065 21.3544,9.653L23.6358,6.6886C20.283,3.7651 16.405,2.3039 11.9994,2.3039C7.5951,2.3039 3.7171,3.7651 0.3643,6.6886Z" />
     <!-- Bar 3 -->
